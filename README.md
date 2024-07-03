@@ -1,5 +1,6 @@
 # CSES Solutions
-
+Hi, my name is Sherwynd, i created this project to share my journey about finished all problem in cses :'). Thanks for spending your time to came here. It's very helpful if you review my code (many of them isnt clean and optimizing ToT). If you want to see how im coding. Here are my newest code : 
+ 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
 | Introductory Problems |     1/19     |
